@@ -21,7 +21,7 @@ You can support me and [buy me a coffee][4] or [cendol][5], if you want. ğŸ™ğŸ
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rzlco666&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/rzlco666/rzlco666">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzlco666&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
