@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 [![Hello 👋🏻](https://pbs.twimg.com/profile_banners/3265673875/1611716530/1500x500)][1]
 
 Hey 👋🏻,
@@ -32,3 +33,4 @@ You can support me and [buy me a coffee][4] or [cendol][5], if you want. 🙏�
 [3]: https://www.twitter.com/rzlco
 [4]: https://www.buymeacoffee.com/rzlco
 [5]: https://trakteer.id/rzlco-y4kir
+<!--END_SECTION:waka-->
