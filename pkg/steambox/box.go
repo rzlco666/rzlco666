@@ -196,6 +196,7 @@ func getNameEmoji(id int, name string) string {
 		945360:  "🕵️‍♂️ ", // Among Us
 		1250410: "🛩️ ",    // Microsoft Flight Simulator
 		1091500: "🦾 ",     // Cyberpunk 2077
+		1569040: "⚽ ", // Football Manager 2022
 	}
 
 	if emoji, ok := nameEmojiMap[id]; ok {
