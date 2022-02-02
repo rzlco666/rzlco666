@@ -33,4 +33,14 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Update-gist
-      run:  go run ./cmd/box/main.go
+      run: |-
+          git clone https://github.com/YouEclipse/waka-box-go.git 
+          cd waka-box-go && go build -o waka ./cmd/box/main.go
+          mv ./waka ../ && cd .. && rm -rf waka-box-go/
+    - name: Commit and push
+      run: |-
+          ./waka
+          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull && git push
