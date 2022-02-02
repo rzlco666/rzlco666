@@ -33,9 +33,4 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Update-gist
-      run: |-
-          git clone https://github.com/YouEclipse/waka-box-go.git 
-          cd waka-box-go && go build -o waka ./cmd/box/main.go
-          mv ./waka ../ && cd .. && rm -rf waka-box-go/
-    - name: Commit and push
       run:  go run ./cmd/box/main.go
