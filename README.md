@@ -80,7 +80,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/3877b06c14188af1c23c6dcf334d10ec" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/9d66d0df28481ead9502fb00c7b39cd6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 
 ```
