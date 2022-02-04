@@ -78,11 +78,3 @@ Go                       1 repo              ░░░░░░░░░░░�
 
  Last Updated on 04/02/2022 06:02:14 UTC
 <!--END_SECTION:waka-->
-
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/9d66d0df28481ead9502fb00c7b39cd6" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
