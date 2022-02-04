@@ -80,5 +80,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/3877b06c14188af1c23c6dcf334d10ec" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
 
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
