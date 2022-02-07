@@ -42,3 +42,5 @@ HTML           🕓 0s     ░░░░░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
+
+<script src="https://gist.github.com/rzlco666/0d27a2258df4e4eb35f8eb81326b1632.js"></script>
