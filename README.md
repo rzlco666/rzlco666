@@ -37,7 +37,7 @@ HTML           🕓 0s     ░░░░░░░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
  
-![Preview](https://gist.github.com/rzlco666/0d27a2258df4e4eb35f8eb81326b1632)
+![Rendered Gist](https://gist.github.com/rzlco666/0d27a2258df4e4eb35f8eb81326b1632)
 
 </td>
 </tr>
