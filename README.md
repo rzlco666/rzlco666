@@ -1,3 +1,6 @@
+#### Spotify Play
+![Preview](https://spotify-readme-rzlco666.vercel.app/api?theme=dark)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2049%20mins-blue)
 
