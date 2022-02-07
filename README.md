@@ -37,7 +37,7 @@ HTML           🕓 0s     ░░░░░░░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-![Preview](https://gist.githubusercontent.com/rzlco666/0d27a2258df4e4eb35f8eb81326b1632/raw/1dafcdafd6891b668e7b6f36fb9256031a59b523/%25F0%259F%258E%25B5%2520My%2520Spotify%2520Top%2520Tracks)
+https://gist.github.com/rzlco666/0d27a2258df4e4eb35f8eb81326b1632
 
 </td>
 </tr>
