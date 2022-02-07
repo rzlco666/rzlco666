@@ -30,7 +30,7 @@ HTML           🕓 0s     ░░░░░░░░░░░░░░░░░�
 <tr>
 <td valign="top" width="50%">
  
-#### <a href="https://open.spotify.com/user/54abeqmcxnkfa383bx905e7l6" target="_blank">📻 Spotify Play Now</a>
+#### <a href="https://open.spotify.com/user/54abeqmcxnkfa383bx905e7l6" target="_blank">📻 Spotify play now</a>
 ![Preview](https://spotify-readme-rzlco666.vercel.app/api?theme=dark)
 
 </td>
