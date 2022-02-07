@@ -1,6 +1,25 @@
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **📻 Spotify Play**
 
 ![Preview](https://spotify-readme-rzlco666.vercel.app/api?theme=dark)
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/2885e4ccf13039376725d5a8f1d28699" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Football Manager 2022            🕘 44 hrs 1 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
+
+</td>
+</tr>
+</table>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2049%20mins-blue)
@@ -86,11 +105,3 @@ Go                       1 repo              ░░░░░░░░░░░�
 
  Last Updated on 07/02/2022 04:37:46 UTC
 <!--END_SECTION:waka-->
-
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/2885e4ccf13039376725d5a8f1d28699" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🎮 Football Manager 2022            🕘 44 hrs 1 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
