@@ -42,3 +42,4 @@ HTML           🕓 0s     ░░░░░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
