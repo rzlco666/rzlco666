@@ -88,7 +88,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/2885e4ccf13039376725d5a8f1d28699" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/2885e4ccf13039376725d5a8f1d28699" target="_blank">🎮 Steam Playtime Leaderboard</a>
 ```text
 🎮 Football Manager 2022            🕘 44 hrs 1 mins
 ```
