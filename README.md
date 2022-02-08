@@ -39,8 +39,8 @@ HTML           🕓 0s     ░░░░░░░░░░░░░░░░░�
  
 #### <a href="https://gist.github.com/rzlco666/c9de661cc2ef885f66dbc5a2efc8f261" target="_blank">🎵 Weekly Spotify top track</a>
  
-<script src="https://gist.github.com/rzlco666/c9de661cc2ef885f66dbc5a2efc8f261.js"></script>
-
 </td>
 </tr>
 </table>
+
+<script src="https://gist.github.com/rzlco666/c9de661cc2ef885f66dbc5a2efc8f261.js"></script>
