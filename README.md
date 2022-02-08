@@ -38,9 +38,8 @@ HTML           🕓 0s                              0.1%
 <td valign="top" width="50%">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2046%20mins-blue)
 
-**Timeline**
+#### <a href="https://raw.githubusercontent.com/rzlco666/rzlco666/main/charts/bar_graph.png" target="_blank">💻 Lines of code written</a>
 
 ![Chart not found](https://raw.githubusercontent.com/rzlco666/rzlco666/main/charts/bar_graph.png) 
 
