@@ -38,8 +38,6 @@ HTML           🕓 0s                              0.1%
 <td valign="top" width="50%">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2046%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -49,14 +47,7 @@ HTML           🕓 0s                              0.1%
 🌙 Night      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
+ 
 <!--END_SECTION:waka-->
  
 </td>
