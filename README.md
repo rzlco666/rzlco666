@@ -37,7 +37,9 @@ HTML           🕓 0s     ░░░░░░░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
  
-#### <a href="https://gist.github.com/rzlco666/0d27a2258df4e4eb35f8eb81326b1632" target="_blank">🎵 Weekly Spotify top track</a>
+#### <a href="https://gist.github.com/rzlco666/c9de661cc2ef885f66dbc5a2efc8f261" target="_blank">🎵 Weekly Spotify top track</a>
+ 
+<script src="https://gist.github.com/rzlco666/c9de661cc2ef885f66dbc5a2efc8f261.js"></script>
 
 </td>
 </tr>
