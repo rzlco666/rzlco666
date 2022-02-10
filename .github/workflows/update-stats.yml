@@ -2,9 +2,8 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-  #schedule:
-    # Runs at 00:00AM UTC
-    #- cron: '0 0 * * *'
+  schedule:
+    - cron: "59 * * * *"
 
 jobs:
   update-readme:
@@ -29,3 +28,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           LOCALE: "id"
+          COMMIT_BY_ME: "True"
