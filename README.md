@@ -38,8 +38,8 @@ CSS            🕓 2m                              0.2%
 <td valign="top" width="50%">
  
 <!--START_SECTION:waka-->
-**Timeline**
-
+ 
+#### <a href="https://raw.githubusercontent.com/rzlco666/rzlco666/main/charts/bar_graph.png" target="_blank">💻 Lines of code written</a>
 ![Chart not found](https://raw.githubusercontent.com/rzlco666/rzlco666/main/charts/bar_graph.png) 
 
 
