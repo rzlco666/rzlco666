@@ -41,6 +41,8 @@ CSS            🕓 2m                              0.2%
  
 <!--START_SECTION:waka-->
 ![Chart not found](https://raw.githubusercontent.com/rzlco666/rzlco666/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
  
 </td>
