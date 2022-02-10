@@ -36,11 +36,11 @@ CSS            🕓 2m                              0.2%
 
 </td>
 <td valign="top" width="50%">
+
+#### <a href="https://raw.githubusercontent.com/rzlco666/rzlco666/main/charts/bar_graph.png" target="_blank">💻 Lines of code written</a>
  
 <!--START_SECTION:waka-->
 ![Chart not found](https://raw.githubusercontent.com/rzlco666/rzlco666/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
  
 </td>
