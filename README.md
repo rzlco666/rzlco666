@@ -5,7 +5,7 @@
 </div>
 
 [logo-url]: https://sdk.bitmoji.com/render/panel/20048676-99047303161_2-s5-v1.png?transparent=1&palette=1&scale=1
-[repo-url]: https://github.com/saadeghi/daisyui
+[repo-url]: https://github.com/rzlco666
 
 ### Hi there 👋
 
