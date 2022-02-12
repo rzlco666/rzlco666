@@ -18,14 +18,14 @@
 
 #### Platform & Tools
 
-[![](https://img.shields.io/badge/Windows-10%20Pro%2064--bit-blue?style=flat-square&logo=Windows)](<[https://](https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro)>)
-[![](https://img.shields.io/badge/IDE-PhpStorm-DC45F1?style=flat-square&logo=PhpStorm)](https://www.jetbrains.com/phpstorm/)
+[![](https://img.shields.io/badge/Windows-10%20Pro%2064--bit-0078D6?style=flat-square&logo=Windows)](<[https://](https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro)>)
+[![](https://img.shields.io/badge/IDE-PhpStorm-181717?style=flat-square&logo=PhpStorm)](https://www.jetbrains.com/phpstorm/)
 [![](https://img.shields.io/badge/IDE-DataGrip-57ADA3?style=flat-square&logo=DataGrip)](https://www.jetbrains.com/datagrip/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0078D4?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/-Yii%20Framework-1781CB?style=flat-square&logo=php&logoColor=ffffff)](https://www.yiiframework.com/)
-[![](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=ffffff)](https://codeigniter.com/)
+[![](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org/)
 [![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://dart.dev/)
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rzlco666&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rzlco666&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2C292D)](#)
  
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=rzlco666&theme=onedark&row=1&column=4)](#)-->
  
