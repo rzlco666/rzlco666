@@ -1,4 +1,48 @@
-<table border="0">
+<div align="center">
+
+[![][logo-url]][repo-url]  
+
+</div>
+
+[logo-url]: https://sdk.bitmoji.com/render/panel/20048676-99047303161_2-s5-v1.png?transparent=1&palette=1&scale=1
+[repo-url]: https://github.com/saadeghi/daisyui
+
+### Hi there 👋
+
+#### About me
+
+- 🔭 I’m currently working at [ITS PKU Muhammadiyah](https://itspku.ac.id/) as a fullstack developer.
+- 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/).
+- 📫 How to reach me: [syahrizalhanif@gmail.com](mailto:syahrizalhanif@gmail.com?subject=Reach%20From%20Github).
+- 🎮 A Football games lover, you can also find me on [Steam](https://steamcommunity.com/id/rzlco666/).
+
+#### Platform & Tools
+
+[![](https://img.shields.io/badge/Windows-10%20Pro%2064--bit-blue?style=flat-square&logo=Windows)](<[https://](https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro)>)
+[![](https://img.shields.io/badge/IDE-PhpStorm-DC45F1?style=flat-square&logo=PhpStorm)](https://www.jetbrains.com/phpstorm/)
+[![](https://img.shields.io/badge/IDE-DataGrip-57ADA3?style=flat-square&logo=DataGrip)](https://www.jetbrains.com/datagrip/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![](https://img.shields.io/badge/-Yii%20Framework-1781CB?style=flat-square&logo=php&logoColor=ffffff)](https://www.yiiframework.com/)
+[![](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=ffffff)](https://codeigniter.com/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org/)
+[![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://dart.dev/)
+[![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=ffffff)](https://flutter.dev/)
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rzlco666&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](#)
+ 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=rzlco666&theme=onedark&row=1&column=4)](#)-->
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzlco666&theme=monokai)
+
+</div>
+
+<table>
 <tr>
 <td valign="top" width="50%">
  
