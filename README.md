@@ -7,7 +7,7 @@
 [logo-url]: https://sdk.bitmoji.com/render/panel/20048676-99047303161_2-s5-v1.png?transparent=1&palette=1&scale=1
 [repo-url]: https://github.com/rzlco666
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
 
 #### About me
 
