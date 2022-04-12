@@ -69,9 +69,9 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/304ab26b101f2491548772b1064b1d53" target="_blank">📊 Weekly development breakdown</a>
 ```text
-PHP        🕓 8h36m ██████████████████████████▊  95.7%
-SQL        🕓 13m   ▋                             2.5%
-JavaScript 🕓 9m    ▌                             1.9%
+PHP        🕓 6h15m ██████████████████████████▎  94.2%
+SQL        🕓 13m   ▉                             3.3%
+JavaScript 🕓 9m    ▋                             2.5%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
