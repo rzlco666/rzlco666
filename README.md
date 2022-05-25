@@ -72,11 +72,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/304ab26b101f2491548772b1064b1d53" target="_blank">📊 Weekly development breakdown</a>
 ```text
-PHP            🕓 18h25m ██████████████████████▏ 96.3%
-JSON           🕓 13m    ▎                        1.2%
-GitIgnore file 🕓 10m    ▏                        0.9%
-Apache Config  🕓 6m                              0.5%
-SQL            🕓 5m                              0.5%
+PHP            🕓 15h55m ██████████████████████  95.8%
+JSON           🕓 13m    ▎                        1.4%
+GitIgnore file 🕓 10m    ▏                        1.1%
+Apache Config  🕓 6m     ▏                        0.6%
+SQL            🕓 5m     ▏                        0.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
