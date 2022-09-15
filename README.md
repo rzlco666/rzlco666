@@ -55,8 +55,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/5c6425e264f6c57e162a9d5318be21fe" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-⚽ Football Manager 2022            🕘 310 hrs 47 mins
-🎮 NBA 2K22                         🕘 307 hrs 32 mins
+⚽ Football Manager 2022            🕘 311 hrs 53 mins
+🎮 NBA 2K22                         🕘 309 hrs 13 mins
 🎮 Tropico 3 - Steam Special Edition 🕘 0 hrs 0 mins
 🎮 Tropico 3: Absolute Power        🕘 0 hrs 0 mins
 ```
