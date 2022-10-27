@@ -57,7 +57,7 @@
 ```text
 🎮 NBA 2K22                         🕘 362 hrs 29 mins
 ⚽ Football Manager 2022            🕘 322 hrs 39 mins
-🔫 Counter-Strike: Global Offensive 🕘 0 hrs 19 mins
+🔫 Counter-Strike: Global Offensive 🕘 0 hrs 29 mins
 🎮 Tropico 3 - Steam Special Edition 🕘 0 hrs 0 mins
 🎮 Tropico 3: Absolute Power        🕘 0 hrs 0 mins
 ```
