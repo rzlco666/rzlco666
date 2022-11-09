@@ -18,7 +18,7 @@
 
 #### Platform & Tools
 
-[![](https://img.shields.io/badge/Windows-10%20Pro%2064--bit-0078D6?style=flat-square&logo=Windows)](<[https://](https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro)>)
+[![](https://img.shields.io/badge/Windows-11%20Pro%2064--bit-0078D6?style=flat-square&logo=Windows)](<[https://](https://www.microsoft.com/en-us/windowsforbusiness/windows-11-pro)>)
 [![](https://img.shields.io/badge/IDE-PhpStorm-181717?style=flat-square&logo=PhpStorm)](https://www.jetbrains.com/phpstorm/)
 [![](https://img.shields.io/badge/IDE-DataGrip-57ADA3?style=flat-square&logo=DataGrip)](https://www.jetbrains.com/datagrip/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0078D4?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
