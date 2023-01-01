@@ -11,7 +11,6 @@
 
 #### About me
 
-- 🔭 I’m currently working at [ITS PKU Muhammadiyah](https://itspku.ac.id/) as a fullstack developer.
 - 🌱 I’m currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/).
 - 📫 How to reach me: [syahrizalhanif@gmail.com](mailto:syahrizalhanif@gmail.com?subject=Reach%20From%20Github).
 - 🎮 A Football games lover, you can also find me on [Steam](https://steamcommunity.com/id/rzlco666/).
