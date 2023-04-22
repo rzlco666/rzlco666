@@ -57,8 +57,8 @@
 🎮 NBA 2K22                         🕘 497 hrs 46 mins
 ⚽ Football Manager 2022            🕘 322 hrs 39 mins
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 33 mins
+🎮 Internet Cafe Simulator 2        🕘 2 hrs 58 mins
 🎮 Tropico 3 - Steam Special Edition 🕘 0 hrs 0 mins
-🎮 Tropico 3: Absolute Power        🕘 0 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
