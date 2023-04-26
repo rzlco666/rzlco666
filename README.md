@@ -56,7 +56,7 @@
 ```text
 🎮 NBA 2K22                         🕘 503 hrs 41 mins
 ⚽ Football Manager 2022            🕘 322 hrs 39 mins
-🎮 Internet Cafe Simulator 2        🕘 7 hrs 34 mins
+🎮 Internet Cafe Simulator 2        🕘 8 hrs 26 mins
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 33 mins
 🎮 Tropico 3 - Steam Special Edition 🕘 0 hrs 0 mins
 ```
