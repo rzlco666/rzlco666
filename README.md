@@ -54,7 +54,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/5c6425e264f6c57e162a9d5318be21fe" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 NBA 2K22                         🕘 529 hrs 30 mins
+🎮 NBA 2K22                         🕘 530 hrs 22 mins
 ⚽ Football Manager 2022            🕘 322 hrs 39 mins
 🎮 Internet Cafe Simulator 2        🕘 8 hrs 56 mins
 🔫 Counter-Strike: Global Offensive 🕘 3 hrs 34 mins
