@@ -47,9 +47,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rzlco666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rzlco666&theme=tokyonight" height="165" />
   <img src="https://streak-stats.demolab.com?user=rzlco666&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzlco666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rzlco666&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
@@ -64,7 +64,20 @@
 
 ### 📌 Featured Projects
 
-_Coming soon — stay tuned._
+<p align="center">
+  <a href="https://github.com/rzlco666/chat-app">
+    <img src="https://github-readme-stats-eight-sepia.vercel.app/api/pin/?username=rzlco666&repo=chat-app&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rzlco666/shopping">
+    <img src="https://github-readme-stats-eight-sepia.vercel.app/api/pin/?username=rzlco666&repo=shopping&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rzlco666/sewa">
+    <img src="https://github-readme-stats-eight-sepia.vercel.app/api/pin/?username=rzlco666&repo=sewa&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rzlco666/office-management">
+    <img src="https://github-readme-stats-eight-sepia.vercel.app/api/pin/?username=rzlco666&repo=office-management&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
