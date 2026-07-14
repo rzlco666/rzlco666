@@ -84,8 +84,8 @@
 ### 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rzlco666/mcp-sql-rust/pull/6) in [rzlco666/mcp-sql-rust](https://github.com/rzlco666/mcp-sql-rust)
-2. 💪 Opened PR [#6](https://github.com/rzlco666/mcp-sql-rust/pull/6) in [rzlco666/mcp-sql-rust](https://github.com/rzlco666/mcp-sql-rust)
+1. 🎉 Merged PR [#8](https://github.com/rzlco666/mcp-sql-rust/pull/8) in [rzlco666/mcp-sql-rust](https://github.com/rzlco666/mcp-sql-rust)
+2. 💪 Opened PR [#8](https://github.com/rzlco666/mcp-sql-rust/pull/8) in [rzlco666/mcp-sql-rust](https://github.com/rzlco666/mcp-sql-rust)
 <!--END_SECTION:activity-->
 
 ---
