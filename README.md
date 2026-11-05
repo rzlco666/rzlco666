@@ -49,8 +49,8 @@
 ### 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rzlco666/strut-stack-sql/pull/6) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql)
-2. 💪 Opened PR [#6](https://github.com/rzlco666/strut-stack-sql/pull/6) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql)
+1. 💪 Opened PR [#12](https://github.com/rzlco666/strut-stack-sql/pull/12) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql)
+2. 💪 Opened PR [#11](https://github.com/rzlco666/strut-stack-sql/pull/11) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql)
 <!--END_SECTION:activity-->
 
 ---
