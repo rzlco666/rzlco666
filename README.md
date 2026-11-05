@@ -9,7 +9,7 @@
 ### 🔭 Now — November 2026
 
 - Shipping the **StrutStack SQL v2.0.1** patch — fixes from the first real-world AI test run
-- Next: listing StrutStack SQL on the official **MCP Registry**, then Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
+- Shipped: StrutStack SQL v2.0.0 on the official **MCP Registry** (`io.github.rzlco666/strut-stack-sql`, latest) — next: Smithery + Glama listings, then Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
 - Two v2.0.0 releases shipped in one day — [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.0) and the StrutStack framework (private repo) (5 November 2026)
 
 ### 📌 Best work
