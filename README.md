@@ -75,10 +75,6 @@ Right now I am building **StrutStack**: a Rust-first application framework and a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzlco666&theme=tokyonight" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzlco666&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" />
-</p>
-
 ---
 
 ### 📌 Featured Projects
