@@ -1,108 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Syahrizal+Hanif;Building+StrutStack+in+Rust;Token-efficient+MCP+servers+%26+frameworks;Rust+%7C+TypeScript+%7C+Laravel+%7C+Next.js" alt="Typing SVG" />
-
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzlco/)
-[![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syahrizalhanif@gmail.com)
-[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rzlco666)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Syahrizal+Hanif;I+build+StrutStack+in+Rust;One+MCP+server%2C+six+databases;Multitenant+frameworks%2C+token-thrifty;Yogyakarta%2C+Indonesia+%E2%80%94+UTC%2B7" alt="Typing animation: Syahrizal Hanif builds StrutStack in Rust" />
 
 </div>
 
----
+**Syahrizal Hanif** — Tech Lead & Full Stack Developer from Yogyakarta, Indonesia (UTC+7). I build **StrutStack**: a Rust-first application framework and a token-efficient MCP server for databases — best-practice structure, multitenancy built in, and thrifty with AI tokens.
 
-👋 Hi, I am **Syahrizal Hanif** — Tech Lead & Full Stack Developer from Indonesia, with 6+ years of experience architecting and building scalable web applications. I care about clean code, system architecture, and shipping real products — from backend APIs to polished frontends.
+### 🔭 Now — November 2026
 
-Right now I am building **StrutStack**: a Rust-first application framework and a token-efficient MCP server for databases, designed for teams that want best-practice structure without the bloat.
+- Shipping the **StrutStack SQL v2.0.1** patch — fixes from the first real-world AI test run
+- Next: listing StrutStack SQL on the official **MCP Registry**, then Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
+- Two v2.0.0 releases shipped in one day — [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.0) and the StrutStack framework (private repo) (5 November 2026)
 
----
-
-### 🚀 What I am building now
+### 📌 Best work
 
 | Project | What it is | Status |
 |---|---|---|
-| [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql) | Token-efficient MCP server for MySQL, PostgreSQL, SQLite, DuckDB, ClickHouse & SQL Server — one binary, policy guard, 20 tools | v2.0.0 released, v2.0.1 in flight |
-| **StrutStack** (framework) | Multitenant Axum + SvelteKit + PostgreSQL framework — shared-schema + Postgres RLS, modular, AI-token thrift | v2.0.0 released (private repo, in active development) |
-| [Rizal Agent HQ](https://github.com/rzlco666/rizal-agent-hq) | A 3D virtual office HQ for AI agents — live monitoring, humanized tasks & logs, usage/costs, alerts | Public, in active development |
+| [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql) | Token-efficient MCP server — one Rust binary for MySQL, PostgreSQL, SQLite, DuckDB, ClickHouse & SQL Server | v2.0.0 released |
+| **StrutStack** (framework) | Multitenant Axum + SvelteKit + PostgreSQL framework — shared schema, Postgres RLS, modular by design | v2.0.0 released (private repo) |
+| [Rizal Agent HQ](https://github.com/rzlco666/rizal-agent-hq) | A 3D virtual office HQ for AI agents — live monitoring, humanized tasks, usage & costs, alerts | In active development |
 | [mcp-sql-rust](https://github.com/rzlco666/mcp-sql-rust) | The original MCP SQL server — predecessor of StrutStack SQL | Public |
 
----
+### ⚡ Fun facts
 
-### 🛠 Tech Stack
+- I shipped two v2.0.0 releases in a single day — SQL in the morning, framework in the afternoon.
+- StrutStack SQL speaks six databases from one binary, with a policy guard in front of every query.
+- I ship with an AI crew: a PM named Melo, developers named after NBA players.
+- I also build admin starters — the UMPKU university library runs on my Next.js admin starter.
 
-<p align="center">
+### 🛠 Stack I would be interviewed on
 
-**Languages & Runtimes**
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-![](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Data**
-![](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Tools**
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</p>
+<img src="https://skillicons.dev/icons?i=rust,ts,svelte,laravel,postgres,mysql,docker,go&theme=dark" alt="Technologies: Rust, TypeScript, Svelte, Laravel, PostgreSQL, MySQL, Docker, Go" />
 
 ---
 
-### 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-sepia.vercel.app/api?username=rzlco666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rzlco666&theme=tokyonight&utcOffset=7" height="170" />
-  <img src="https://github-readme-stats-eight-sepia.vercel.app/api/top-langs/?username=rzlco666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rzlco666/rzlco666/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rzlco666/rzlco666/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/rzlco666/rzlco666/output/github-contribution-grid-snake.svg" />
+  </picture>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzlco666&theme=tokyonight" width="100%" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/rzlco666/strut-stack-sql">
-    <img src="https://github-readme-stats-eight-sepia.vercel.app/api/pin/?username=rzlco666&repo=strut-stack-sql&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/rzlco666/rizal-agent-hq">
-    <img src="https://github-readme-stats-eight-sepia.vercel.app/api/pin/?username=rzlco666&repo=rizal-agent-hq&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/rzlco666/mcp-sql-rust">
-    <img src="https://github-readme-stats-eight-sepia.vercel.app/api/pin/?username=rzlco666&repo=mcp-sql-rust&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 🔭 Currently
-
-- Shipping **StrutStack v2** — SQL MCP server + multitenant framework, both released November 2026
-- Next: official MCP Registry listing, then Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
-- Open to collaboration on Rust tooling, MCP servers, and developer platforms
-
-### 📫 Reach me
-
-- LinkedIn: [linkedin.com/in/rzlco](https://www.linkedin.com/in/rzlco/)
-- Email: [syahrizalhanif@gmail.com](mailto:syahrizalhanif@gmail.com)
+</div>
 
 ---
 
@@ -117,10 +57,6 @@ Right now I am building **StrutStack**: a Rust-first application framework and a
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rzlco666/rzlco666/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rzlco666/rzlco666/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/rzlco666/rzlco666/output/github-contribution-grid-snake.svg" />
-  </picture>
+If you build MCP tools, ⭐ **star [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql)** — and say hi on [LinkedIn](https://www.linkedin.com/in/rzlco/).
 
 </div>
