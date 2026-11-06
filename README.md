@@ -8,25 +8,25 @@
 
 ### 🔭 Now — November 2026
 
-- Shipping the **StrutStack SQL v2.0.1** patch — fixes from the first real-world AI test run
-- Shipped: StrutStack SQL v2.0.0 on the official **MCP Registry** (`io.github.rzlco666/strut-stack-sql`, latest) — next: Smithery + Glama listings, then Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
+- **Shipped StrutStack SQL v2.0.1** (6 November 2026) — four PRs merged in one morning: the `--profile` flag fix, the measured token benchmark, the manifest fix, and a CI job that enforces token budgets
+- StrutStack SQL v2.0.0 is listed on the official **MCP Registry** (`io.github.rzlco666/strut-stack-sql`, latest) — next: Smithery + Glama listings
+- Framework **v2.0.0 shipped 5 November 2026**; the FW-100 completeness work (items A–F) is done locally and the final gate is running — then one PR and the v2.0.1 release, followed by Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
 - Two v2.0.0 releases shipped in one day — [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.0) and the StrutStack framework (private repo) (5 November 2026)
 
 ### 📌 Best work
 
 | Project | What it is | Status |
 |---|---|---|
-| [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql) | Token-efficient MCP server — one Rust binary for MySQL, PostgreSQL, SQLite, DuckDB, ClickHouse & SQL Server | v2.0.0 released |
-| **StrutStack** (framework) | Multitenant Axum + SvelteKit + PostgreSQL framework — shared schema, Postgres RLS, modular by design | v2.0.0 released (private repo) |
+| [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql) | Token-efficient MCP server — one Rust binary for MySQL, PostgreSQL, SQLite, DuckDB, ClickHouse & SQL Server. Lite surface costs 625 tokens; listed on the official MCP Registry | [v2.0.1 released](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.1) |
+| **StrutStack** (framework) | Multitenant Axum + SvelteKit + PostgreSQL framework — shared schema, Postgres RLS, modular by design | [v2.0.0 released](https://github.com/rzlco666/strut-stack/releases/tag/v2.0.0) (private repo) |
 | [Rizal Agent HQ](https://github.com/rzlco666/rizal-agent-hq) | A 3D virtual office HQ for AI agents — live monitoring, humanized tasks, usage & costs, alerts | In active development |
-| [mcp-sql-rust](https://github.com/rzlco666/mcp-sql-rust) | The original MCP SQL server — predecessor of StrutStack SQL | Public |
 
 ### ⚡ Fun facts
 
 - I shipped two v2.0.0 releases in a single day — SQL in the morning, framework in the afternoon.
 - StrutStack SQL speaks six databases from one binary, with a policy guard in front of every query.
-- I ship with an AI crew: a PM named Melo, developers named after NBA players.
-- I also build admin starters — the UMPKU university library runs on my Next.js admin starter.
+- The lite tools surface costs **625 tokens** — and CI fails the build if it ever grows past 750.
+- **22 pull requests merged in the first six days of November 2026** — the StrutStack v2.0.0 → v2.0.1 sprint.
 
 ### 🛠 Stack I would be interviewed on
 
@@ -49,8 +49,11 @@
 ### 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/rzlco666/strut-stack-sql/pull/12) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql)
-2. 💪 Opened PR [#11](https://github.com/rzlco666/strut-stack-sql/pull/11) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql)
+1. 🎉 Merged PR [#13](https://github.com/rzlco666/strut-stack-sql/pull/13) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
+2. 🎉 Merged PR [#10](https://github.com/rzlco666/strut-stack-sql/pull/10) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
+3. 🎉 Merged PR [#12](https://github.com/rzlco666/strut-stack-sql/pull/12) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
+4. 🎉 Merged PR [#11](https://github.com/rzlco666/strut-stack-sql/pull/11) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
+5. 🎉 Merged PR [#9](https://github.com/rzlco666/strut-stack-sql/pull/9) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 5 Nov 2026
 <!--END_SECTION:activity-->
 
 ---
