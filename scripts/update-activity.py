@@ -18,7 +18,12 @@ import json
 import os
 import sys
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+
+try:
+    from zoneinfo import ZoneInfo
+except ImportError:  # Python < 3.9
+    ZoneInfo = None
 
 USERNAME = "rzlco666"
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -43,10 +48,32 @@ def fetch_events(token):
         return json.load(resp)
 
 
+# WIB (Asia/Jakarta, UTC+7) — README dates use WIB throughout. Prefer the
+# IANA zone; fall back to a fixed +07:00 offset if tzdata is missing on
+# the runner, so the conversion never silently becomes raw UTC.
+if ZoneInfo is not None:
+    try:
+        WIB = ZoneInfo("Asia/Jakarta")
+    except Exception:  # noqa: BLE001 - tzdata missing on the runner
+        WIB = timezone(timedelta(hours=7))
+else:
+    WIB = timezone(timedelta(hours=7))
+
+# Explicit English month abbreviations — strftime %b follows the runner
+# locale and would break if the locale ever changed.
+MONTHS_EN = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+             "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+
 def fmt_date(iso):
-    # "2026-11-06T03:09:16Z" -> "6 Nov 2026"
+    # "2026-11-05T18:39:10Z" (UTC) -> "6 Nov 2026" (WIB).
+    # The raw UTC timestamp must be converted first: events merged
+    # 17:00-24:00 UTC land on 00:00-07:00 WIB the NEXT day, so formatting
+    # UTC puts them a day early (PR #9 was listed as 5 Nov, it merged
+    # 01:39 WIB 6 Nov).
     dt = datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ")
-    return f"{dt.day} {dt.strftime('%b %Y')}"
+    dt = dt.replace(tzinfo=timezone.utc).astimezone(WIB)
+    return f"{dt.day} {MONTHS_EN[dt.month - 1]} {dt.year}"
 
 
 def build_items(events):

@@ -10,7 +10,7 @@
 
 - **Shipped StrutStack SQL v2.0.1** (6 November 2026) — four PRs merged in one morning: the `--profile` flag fix, the measured token benchmark, the manifest fix, and a CI job that enforces token budgets
 - StrutStack SQL v2.0.0 is listed on the official **MCP Registry** (`io.github.rzlco666/strut-stack-sql`, latest) — next: Smithery + Glama listings
-- Framework **v2.0.0 shipped 5 November 2026**; the FW-100 completeness work (items A–F) is done locally and the final gate is running — then one PR and the v2.0.1 release, followed by Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
+- Framework **v2.0.0 shipped 5 November 2026**; the FW-100 completeness work (items A–F) passed its final gate and is now [PR #11](https://github.com/rzlco666/strut-stack/pull/11) — the v2.0.1 release follows, followed by Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
 - Two v2.0.0 releases shipped in one day — [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.0) and the StrutStack framework (private repo) (5 November 2026)
 
 ### 📌 Best work
@@ -53,7 +53,7 @@
 2. 🎉 Merged PR [#10](https://github.com/rzlco666/strut-stack-sql/pull/10) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
 3. 🎉 Merged PR [#12](https://github.com/rzlco666/strut-stack-sql/pull/12) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
 4. 🎉 Merged PR [#11](https://github.com/rzlco666/strut-stack-sql/pull/11) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
-5. 🎉 Merged PR [#9](https://github.com/rzlco666/strut-stack-sql/pull/9) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 5 Nov 2026
+5. 🎉 Merged PR [#9](https://github.com/rzlco666/strut-stack-sql/pull/9) in [rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) — 6 Nov 2026
 <!--END_SECTION:activity-->
 
 ---

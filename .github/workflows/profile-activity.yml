@@ -9,6 +9,12 @@ on:
 permissions:
   contents: write
 
+# Cron + manual dispatch can overlap; serialize runs so two runs
+# never commit+push the README at the same time.
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
