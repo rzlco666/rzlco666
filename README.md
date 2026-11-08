@@ -8,25 +8,27 @@
 
 ### 🔭 Now — November 2026
 
-- **Shipped StrutStack SQL v2.0.1** (6 November 2026) — four PRs merged in one morning: the `--profile` flag fix, the measured token benchmark, the manifest fix, and a CI job that enforces token budgets
-- StrutStack SQL v2.0.0 is listed on the official **MCP Registry** (`io.github.rzlco666/strut-stack-sql`, latest) — next: Smithery + Glama listings
-- Framework **v2.0.0 shipped 5 November 2026**; the FW-100 completeness work (items A–F) passed its final gate and is now [PR #11](https://github.com/rzlco666/strut-stack/pull/11) — the v2.0.1 release follows, followed by Batch2 (Mail, Storage, Webhooks, Billing, SSO) as v2.1
+- **Shipped StrutStack SQL v2.0.2** (6 November 2026) — the `--profile` flag fix, the manifest fix, the measured token benchmark (lite 625 / full 2,549 tokens), and a CI job that enforces token budgets; listed on the official **MCP Registry** (`io.github.rzlco666/strut-stack-sql`, latest)
+- Framework **v2.0.1 shipped 6 November 2026**; Batch2 is landing as v2.1 — Mail, Storage, and Webhooks merged, SSO ([PR #17](https://github.com/rzlco666/strut-stack/pull/17)) and Billing ([PR #18](https://github.com/rzlco666/strut-stack/pull/18)) in flight
+- **Tracerio** (private repo) — Smart Campus AI + LMS + Tracer Study: fork live, LMS adapter + LMS native + Consent merged, demo campus running locally
+- **Rizal Agent HQ** — Notion knowledge search and live stock prices are live; knowledge-accuracy PR [#13](https://github.com/rzlco666/rizal-agent-hq/pull/13) in review
 - Two v2.0.0 releases shipped in one day — [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.0) and the StrutStack framework (private repo) (5 November 2026)
 
 ### 📌 Best work
 
 | Project | What it is | Status |
 |---|---|---|
-| [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql) | Token-efficient MCP server — one Rust binary for MySQL, PostgreSQL, SQLite, DuckDB, ClickHouse & SQL Server. Lite surface costs 625 tokens; listed on the official MCP Registry | [v2.0.1 released](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.1) |
-| **StrutStack** (framework) | Multitenant Axum + SvelteKit + PostgreSQL framework — shared schema, Postgres RLS, modular by design | [v2.0.0 released](https://github.com/rzlco666/strut-stack/releases/tag/v2.0.0) (private repo) |
-| [Rizal Agent HQ](https://github.com/rzlco666/rizal-agent-hq) | A 3D virtual office HQ for AI agents — live monitoring, humanized tasks, usage & costs, alerts | In active development |
+| [StrutStack SQL](https://github.com/rzlco666/strut-stack-sql) | Token-efficient MCP server — one Rust binary for MySQL, PostgreSQL, SQLite, DuckDB, ClickHouse & SQL Server. Lite surface costs 625 tokens; listed on the official MCP Registry | [v2.0.2 released](https://github.com/rzlco666/strut-stack-sql/releases/tag/v2.0.2) |
+| **StrutStack** (framework) | Multitenant Axum + SvelteKit + PostgreSQL framework — shared schema, Postgres RLS, modular by design | [v2.0.1 released](https://github.com/rzlco666/strut-stack/releases/tag/v2.0.1) (private repo) |
+| **Tracerio** | Smart Campus AI + LMS + Tracer Study — multitenant SaaS for Indonesian universities | Demo campus live locally (private repo) |
+| [Rizal Agent HQ](https://github.com/rzlco666/rizal-agent-hq) | A 3D virtual office HQ for AI agents — live monitoring, Notion knowledge search, live stock prices, usage & costs, alerts | [v2.5.0 released](https://github.com/rzlco666/rizal-agent-hq/releases/tag/v2.5.0) |
 
 ### ⚡ Fun facts
 
 - I shipped two v2.0.0 releases in a single day — SQL in the morning, framework in the afternoon.
 - StrutStack SQL speaks six databases from one binary, with a policy guard in front of every query.
 - The lite tools surface costs **625 tokens** — and CI fails the build if it ever grows past 750.
-- **22 pull requests merged in the first six days of November 2026** — the StrutStack v2.0.0 → v2.0.1 sprint.
+- **48 pull requests merged 1–8 November 2026** — the StrutStack v2.0.0 → v2.0.2 sprint, across SQL, the framework, Rizal Agent HQ, and Tracerio.
 
 ### 🛠 Stack I would be interviewed on
 
